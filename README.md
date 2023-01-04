@@ -22,7 +22,7 @@ Renato_Data@engineer.com.
 
 ---
 
-### About this Professional Certificate
+## Sobre esta Certificação Profissional
 
 A ciência de dados é uma das profissões mais promissoras da década, e a demanda por cientistas de dados que podem analisar dados e comunicar resultados para informar decisões baseadas em dados nunca foi tão grande. Este Certificado Profissional da IBM ajudará qualquer pessoa interessada em seguir carreira em ciência de dados ou aprendizado de máquina a desenvolver habilidades e experiência relevantes para a carreira.
 
