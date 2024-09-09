@@ -18,7 +18,7 @@ Obrigado pela visita.
 Renato_Data@engineer.com.
  
 </h3>
-# [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+# ![IBM Data Science Professional Certificate]([https://www.coursera.org/professional-certificates/ibm-data-science](https://github.com/renatomenendes/renatomenendes/blob/main/Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20-%20Coursera%20-%20RW7XNB778QZT.pdf))
 
 ---
 
